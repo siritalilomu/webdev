@@ -44,4 +44,7 @@
     - Manual deploy
         - Choose the branch that you want to deploy (master)
         - Click on Deploy Branch
-
+    - Click on Activity Tab
+        - Click on the Build Log
+            - The end of the log should have your url
+            - Here is mine https://testing-hello-word.herokuapp.com/
